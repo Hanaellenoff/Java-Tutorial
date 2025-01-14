@@ -1,0 +1,25 @@
+
+public class BooleanInJava {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+//      int a = 0;
+      boolean passedDoor = true;
+      boolean missedDoor = false;
+//      System.out.println(b);
+      
+      if(passedDoor) {
+    	  System.out.println("1st door passed");
+      }
+      
+      if(missedDoor) {
+    	  System.out.println("2nd door passed");
+      }
+      
+      if(passedDoor) {
+    	  System.out.println("3rd door passed");
+      }
+      
+	}
+
+}

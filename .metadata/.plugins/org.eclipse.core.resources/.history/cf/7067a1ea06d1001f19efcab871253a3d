@@ -1,0 +1,13 @@
+
+public class Integers {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+        String a = "meow";
+        int i = 5; 
+       
+        System.out.println(a);
+        System.out.println(i);
+	}
+
+}

@@ -1,0 +1,16 @@
+import java.util.Scanner;
+
+public class EightBall {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Scanner scan = new Scanner(System.in);
+		System.out.println("Type a question:");
+        scan.next();		
+		System.out.println("as I see it yes");
+        
+
+ 
+	}
+
+}

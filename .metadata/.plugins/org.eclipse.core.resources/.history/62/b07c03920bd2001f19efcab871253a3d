@@ -1,0 +1,28 @@
+import java.util.Scanner;
+
+public class EightBall {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Scanner scan = new Scanner(System.in);
+		System.out.println("Type a question:");
+        scan.next();		
+        
+        int r = 0 ;
+        
+        if (r == 0 ) {
+        	System.out.println("as I see it yes");        	
+        } else if (r == 1 ) {
+        	System.out.println("Signs point to yes ");
+        	
+        }
+//        
+//		System.out.println("Reply, hazy try again");
+//		System.out.println("Dont count on it");
+//		System.out.println("outlook not so good");
+//        
+
+ 
+	}
+
+}
