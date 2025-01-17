@@ -18,6 +18,6 @@ public class SwitchCase {
 			default:
 				System.out.println("try a diff dog type");
 		}
-	}
+	} 
 
 }

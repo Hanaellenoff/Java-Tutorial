@@ -22,5 +22,5 @@ public class FindDuplicates {
 			charecters += current;
 		  }
 			System.out.println(duplicates);
-		}
+		} 
 	}
