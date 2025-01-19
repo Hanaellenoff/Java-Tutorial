@@ -1,13 +1,27 @@
+import java.util.Scanner;
 
 public class FinallyT {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
-		int a = 5;
-		int b = 0;
 		
-		int c = a/b;
+		Scanner scan = new Scanner(System.in);
+		
+	
+		
+		try {
+			System.out.println(scan.next());
+			
+		}catch (NullPointerException e) {
+			
+			System.out.println(e);
+			
+		}finally {
+			scan.close();
+
+			
+		}
 	}
 
 }
