@@ -15,7 +15,8 @@ public class HashMapAwe {
 		fun.remove("helloKittyFan21");
 		System.out.println(fun.replace("coolGuyswag", "betterPassword") );
 
-		System.out.println(fun);
+		System.out.println(fun.keySet());
 	}
 
 }
+  
