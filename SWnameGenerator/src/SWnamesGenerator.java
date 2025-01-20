@@ -11,7 +11,7 @@ public class SWnamesGenerator {
 		
 		Scanner scan = new Scanner(System.in);
 		
-		String letter = scan.next();
+		String letter = scan.next().toUpperCase();
 		int day = scan.nextInt();
 		System.out.println();
 		 
