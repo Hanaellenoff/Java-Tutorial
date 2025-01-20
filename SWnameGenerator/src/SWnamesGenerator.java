@@ -77,7 +77,7 @@ public class SWnamesGenerator {
 			days.put(30, "Syndulla");
 			days.put(31, "Zorii");
 
-			System.out.println("Your star wars name is:" + letters.get(letter)+  "\n" + days.get(day));
+			System.out.println("Your star wars name is: " + letters.get(letter)+  "\n" + days.get(day));
 		
 	}
 
