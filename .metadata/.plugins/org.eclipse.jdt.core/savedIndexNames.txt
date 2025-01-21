@@ -3,8 +3,10 @@ INDEX VERSION 1.134+/Users/Student/eclipse-workspace/.metadata/.plugins/org.ecli
 1112184408.index
 1643866887.index
 2684709193.index
+3115289216.index
 2984099420.index
 2688866717.index
+4280595548.index
 2911670181.index
 4271575741.index
 1096427703.index
@@ -26,12 +28,14 @@ INDEX VERSION 1.134+/Users/Student/eclipse-workspace/.metadata/.plugins/org.ecli
 2002414954.index
 3983980539.index
 1301275508.index
+455749813.index
 3162269900.index
 283190159.index
 3849926856.index
 407335498.index
 3290070059.index
 1440566489.index
+3949717787.index
 3787148540.index
 1316055787.index
 3021583871.index
