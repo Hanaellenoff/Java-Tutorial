@@ -4,7 +4,7 @@ public class Palindromes {
 	public static void main(String[] args) {
 		// mom dad racecar nurses run
  
-		String og = "racecar";
+		String og = "racecar ";
 		char b = 'm';
 		String reverse = "";
 
