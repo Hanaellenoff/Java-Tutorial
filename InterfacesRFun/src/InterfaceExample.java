@@ -3,6 +3,7 @@ interface WaterBottleInterface {
 	
 	
 	void fillUp();
+	void pourOut();
 }
 
 
@@ -20,6 +21,12 @@ public class InterfaceExample implements WaterBottleInterface {
 	public void fillUp() {
 		// TODO Auto-generated method stub
 		System.out.println("Its filled up");
+	}
+
+	@Override
+	public void pourOut() {
+		// TODO Auto-generated method stub
+		System.out.println("Its pouered out");
 	}
 
 }
