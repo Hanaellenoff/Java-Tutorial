@@ -11,7 +11,6 @@ public class ThisIsFun {
 	
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stu
 		
 		ThisIsFun t = new ThisIsFun();
 		t.setData(4, 3);
