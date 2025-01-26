@@ -14,7 +14,7 @@ public class YayGNS {
 		a.setAge(3);
 		System.out.println(a.getName());
 		System.out.println(a.getAge());
-		a.printDetails();
+//		a.printDetails();
 		
 	}
 	
